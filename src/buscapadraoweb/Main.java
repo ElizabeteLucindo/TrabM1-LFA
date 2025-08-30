@@ -49,6 +49,12 @@ public class Main {
     /*
      * @param args the command line arguments
      */
+
+    /* links:
+    https://www.companhiadasletras.com.br/livro/9788535937817/nexus
+    https://tudosobredoi.com.br/para-comecar/o-que-e-e-qual-e-a-estrutura-de-um-isbn/
+    https://ifgoiano.edu.br/home/index.php/editora/16081-sobre-o-isbn.html
+    */
     public static void main(String[] args) {
         //instancia e usa objeto que captura código-fonte de páginas Web
         CapturaRecursosWeb crw = new CapturaRecursosWeb();
